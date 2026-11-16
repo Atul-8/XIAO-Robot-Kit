@@ -1,0 +1,8 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:XIAO_ESP32S3_Plus",
+    "name": "XIAO_ESP32S3_PLUS",
+    "type": "board"
+  },
+  "included_libs": []
+}
