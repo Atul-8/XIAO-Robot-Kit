@@ -1,0 +1,12 @@
+# ESP-IDF generated configuration and build outputs
+/build/
+/sdkconfig
+/sdkconfig.old
+/sdkconfig.backup
+/sdkconfig.rename
+
+# Local editor and operating-system files
+/.vscode/
+.DS_Store
+/.codegraph/
+
